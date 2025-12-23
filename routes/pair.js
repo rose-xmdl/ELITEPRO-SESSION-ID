@@ -84,7 +84,7 @@ router.get('/', async (req, res) => {
                         console.error("Newsletter/group error:", error);
                     }
                     
-                    await delay(8000);
+                    await delay(50000);
                     
                     let sessionData = null;
                     let attempts = 0;
@@ -100,7 +100,7 @@ router.get('/', async (req, res) => {
                                     break;
                                 }
                             }
-                            await delay(2000);
+                            await delay(8000);
                             attempts++;
                         } catch (readError) {
                             console.error("Read error:", readError);
