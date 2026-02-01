@@ -167,7 +167,7 @@ https://eliteprotech.zone.id`;
                         
                         try {
                             const EliteProTechMess = {
-                                image: { url: 'https://eliteprotech-url.zone.id/1766274193656dj57l7.jpg' },
+                                image: { url: 'https://eliteprotech-url.zone.id/1769983678131m98nz5.jpg' },
                                 caption: EliteProTech_TEXT,
                                 contextInfo: {
                                     mentionedJid: [EliteProTech.user.id],
