@@ -10,7 +10,7 @@
   "author": "EliteProTech",
   "license": "GPL-3.0 license",
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:baileys@6.7.24",
+    "@whiskeysockets/baileys": "npm:baileys@6.7.21",
     "bcryptjs": "^3.0.2",
     "body-parser": "*",
     "express": "*",
