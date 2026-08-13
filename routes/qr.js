@@ -238,13 +238,10 @@ router.get('/', async (req, res) => {
 
 📢 *Stay Updated — Follow Our Channels:*
 
-➊ *WhatsApp Channel*  
-https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g
-
-➋ *Telegram*  
+➊ *Telegram*  
 https://t.me/eliteprotechs
 
-➌ *YouTube*  
+➋ *YouTube*  
 https://youtube.com/@eliteprotechs
 
 🚫 *Do NOT share your session ID or creds.json with anyone.*
