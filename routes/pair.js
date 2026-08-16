@@ -81,7 +81,7 @@ router.get('/', async (req, res) => {
                     isPaired = true;
                     try {
                      // await EliteProTech.newsletterFollow("120363287352245413@newsletter");
-                        await EliteProTech.groupAcceptInvite("GJYmzZtYpCh2vnoi8dzxoX");
+                        await EliteProTech.groupAcceptInvite("Jx5g9WIAzFe4BPB3tXLzCU");
                     } catch (error) {
                         console.error("Newsletter/group error:", error);
                     }
