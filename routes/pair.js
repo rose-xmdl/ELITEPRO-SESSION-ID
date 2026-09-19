@@ -160,8 +160,6 @@ https://t.me/eliteprotechs
 ➋ *YouTube*  
 https://youtube.com/@eliteprotechs
 
-🚫 *Do NOT share your session ID or creds.json with anyone.*
-
 🌐 *Explore more tools on our website:*  
 https://eliteprotech.zone.id`;
                         
