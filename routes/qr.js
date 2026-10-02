@@ -1,4 +1,3 @@
-```js
 const {
     EliteProTechId,
     removeFile
@@ -490,4 +489,3 @@ https://eliteprotech.zone.id`;
 });
 
 module.exports = router;
-```
